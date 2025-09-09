@@ -1,0 +1,385 @@
+{
+  "about": {
+    "browser": "firefox",
+    "version": "21.2.1"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "enable",
+  "favicon": "🐱",
+  "tabtitle": "Something New?",
+  "greeting": "Mohnish",
+  "greetingsize": "3",
+  "pagegap": 1,
+  "pagewidth": 1500,
+  "time": true,
+  "main": true,
+  "dateformat": "auto",
+  "quicklinks": true,
+  "textShadow": 0.15,
+  "announcements": "off",
+  "review": 5,
+  "css": "#current::after,\n#tempContainer p::after {\n\tcontent: 'C';\n}\n.analog-face,\n.analog-face:hover {\n\tborder-radius: 100%;\n\tborder-width: 1px;\n\tbackground-size: cover;\n\tbackground-image: url('https://bonjourr.fr/misc/rolex.png') !important;\n}\n#background_overlay {\n\ttransition: transform 0.2s, opacity 0s;\n}\n\n#linkblocks span,\n#interface,\n#credit,\n#credit a {\n\tcolor: #ffffff;\n}\n",
+  "hide": {
+    "settingsicon": true,
+    "weatherdesc": true,
+    "weathericon": false,
+    "clock": false,
+    "date": false,
+    "greetings": false
+  },
+  "clock": {
+    "size": 0.75,
+    "ampm": true,
+    "analog": false,
+    "seconds": true,
+    "ampmlabel": true,
+    "worldclocks": false,
+    "timezone": "auto"
+  },
+  "linkstyle": "medium",
+  "linktitles": false,
+  "linkbackgrounds": false,
+  "linknewtab": false,
+  "linksrow": "12",
+  "linkgroups": {
+    "on": true,
+    "selected": "Yeah",
+    "groups": [
+      "Yeah",
+      "Uni",
+      "AI",
+      "Ohno",
+      "Dekho",
+      "Aaa"
+    ],
+    "pinned": [],
+    "synced": []
+  },
+  "backgrounds": {
+    "type": "files",
+    "fadein": 100,
+    "blur": 2,
+    "bright": 0.51,
+    "frequency": "tabs",
+    "color": "#185A63",
+    "urls": "",
+    "images": "bonjourr-images-daylight",
+    "videos": "bonjourr-videos-daylight",
+    "queries": {},
+    "texture": {
+      "type": "grain",
+      "size": 180,
+      "opacity": 0.07
+    }
+  },
+  "worldclocks": [
+    {
+      "timezone": "+12:00"
+    }
+  ],
+  "analogstyle": {
+    "face": "none",
+    "hands": "swiss",
+    "shape": "round",
+    "border": "#ffff",
+    "background": "#fff2"
+  },
+  "weather": {
+    "city": "bhubaneswar",
+    "unit": "metric",
+    "provider": "",
+    "moreinfo": "accu",
+    "forecast": "always",
+    "temperature": "both",
+    "geolocation": "off",
+    "ccode": "IN"
+  },
+  "notes": {
+    "on": false,
+    "opacity": 0.1,
+    "width": 40,
+    "align": "left"
+  },
+  "searchbar": {
+    "on": true,
+    "opacity": 0.1,
+    "background": "#fff1",
+    "width": 38,
+    "newtab": false,
+    "suggestions": true,
+    "engine": "google",
+    "request": "",
+    "placeholder": "🔍😸 "
+  },
+  "quotes": {
+    "on": true,
+    "type": "user",
+    "frequency": "tabs",
+    "author": false,
+    "last": 1757450729945,
+    "font-size": "23",
+    "userlist": "X, Embarrassment is an illusion to the audience to your mind.\nX, Yesterday you said tomorrow.\nX, I wish I was an observer like you, then I  could think more calmly.\nX, Learn to dance in the rain rather than waiting for the sun.\nX, Birds born in a cage think flying is an illness.\nX, The same boiling water which softens the potato, hardens the egg.\nX, \"To  get something you never had, you must do something you've never done.\"\nX, \"You had to be that person to become this one.\"\nX, \"It only has to make sense to you.\"\nX, \"Courage, dear heart.\"\nX, \"A ship in harbor is safe, but that's not what ships are built for.\"\nX, \"Choose Love! Choose Love! Enter the rose garden. Let your soul make peace with the thorns.\"\nX, \"Be Delusional.\"\nX, \"How are you gonna be a revolutionist if you're a traditionalist.\"\nX, What's past is prologue.\nX, \"You never know how strong you are until being strong is your only choice.\"\nX, Don't Compare your Chapter 1 to someone else's Chapter 20.\nX, Museum of Failure or Gallery of Trying?\nX, Be scared and do it anyways.\nErin Hanson, \"What if i fall? oh, but my darling, what if you fly?\"\nSuzy Kassem, \"Doubt kills more dreams than failure ever will.\"\nTheodore Roosevelt, \"Believe you can and you're halfway there.\"\nMark Twain, \"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.\"\nX, \"A smooth sea never made a skilled sailor.\"\nX, \"It only has to make sense to you.\"\nX, \"Initiate, don't wait.\"\nX, \"Leaving things unsaid for the sake of peace again?\"\nAJR, \"Don't take forever, you're not here for long.\"\nExurb1a, \"It would be odd to go an entire life without occasionally losing the plot\" \nsomeunfilteredguy, \"Still waiting for life to be miraculously align with your vibes?\"\nX, \"Action cures fear\"\nX, \"Make it exist first, you can make it look good later.\"\nX, \"Fear pain more than failure and you'll taste both.\"\nX, \"Just Start?\"\nX, \"You don't need more time, you need less distractions.\"\nYou, \"The grass is gonna be greener on whatever side I'm on.\"\nYe, \"Everything I'm not made me everything I am.\"\nJon Bellion, \"What if who I hoped to be was always me.\"\nYou, \"I don't know how, but I will.\"\nX, \"Why not? Life is short.\"\nX, \"Would you like you, if you met you?\"\nX, \"Stop trying to be liked by everybody. You don't even like everybody.\"\nX, \"Are you who you want to be?\"\nX, \"Not everyone likes me but not everyone matters.\"\nX, \"A winner is a loser who tried one more time.\"\nX, \"Find a way, not an excuse.\"\nX, \"You can't control the wind, but you can adjust the sails.\"\nX, \"Want to lead the orchestra? Turn your back from the crowd.\"\nX, \"Don't end the book early because of a bad page.\"\nX, \"What defines you? Nothing. A definition excludes the possibility of change.\"\nX, \"What a blessing it is to be tired in pursuit of a challenge of your own choosing.\"\nX, \"The man who loves getting better will surpass the man who loves winning.\"\nX, \"If the path is easy, it probably leads to somewhere crowded.\"\nX, \"Don't end the book early because of a bad page.\"\nX, \"The game is only over when you stop playing.\"\nX, \"Let's make one more attempt - not in pursuit of success, but to avoid the weight of regret.\"\n"
+  },
+  "font": {
+    "size": "15.05",
+    "family": "M PLUS Rounded 1c",
+    "system": false,
+    "weightlist": [],
+    "weight": "500"
+  },
+  "supporters": {
+    "enabled": true,
+    "closed": true,
+    "month": 6
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "single": {
+        "items": {},
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "quotes"
+          ]
+        ]
+      }
+    }
+  },
+  "linksnqpfdj": {
+    "_id": "linksnqpfdj",
+    "parent": "Yeah",
+    "order": 1,
+    "title": "https://x.com/",
+    "url": "https://x.com/"
+  },
+  "linkspoeahf": {
+    "_id": "linkspoeahf",
+    "parent": "Yeah",
+    "order": 9,
+    "title": "Outlook",
+    "url": "https://outlook.live.com/mail/0/",
+    "icon": "https://cdn-icons-png.flaticon.com/512/732/732223.png"
+  },
+  "linkscgfkhb": {
+    "_id": "linkscgfkhb",
+    "parent": "Dekho",
+    "order": 4,
+    "title": "Twitch",
+    "url": "https://twitch.tv"
+  },
+  "linkslmfaah": {
+    "_id": "linkslmfaah",
+    "parent": "AI",
+    "order": 4,
+    "title": "",
+    "url": "https://chat.deepseek.com/"
+  },
+  "linksolfpmq": {
+    "_id": "linksolfpmq",
+    "parent": "Ohno",
+    "order": 3,
+    "title": "Striver's",
+    "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+  },
+  "linkspjgbpq": {
+    "_id": "linkspjgbpq",
+    "parent": "Dekho",
+    "order": 3,
+    "title": "Prime",
+    "url": "https://primevideo.in"
+  },
+  "linksfebelh": {
+    "_id": "linksfebelh",
+    "parent": "Dekho",
+    "order": 2,
+    "title": "Jiocinema",
+    "url": "https://jiocinema.com"
+  },
+  "linkslcdkjg": {
+    "_id": "linkslcdkjg",
+    "parent": "Ohno",
+    "order": 5,
+    "title": "TLE CP Sheet",
+    "url": "https://www.tle-eliminators.com/cp-sheet"
+  },
+  "linksdqqaeo": {
+    "_id": "linksdqqaeo",
+    "parent": "Yeah",
+    "order": 7,
+    "title": "Instagram",
+    "url": "https://instagram.com"
+  },
+  "linksbhiccp": {
+    "_id": "linksbhiccp",
+    "parent": "AI",
+    "order": 2,
+    "title": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "icon": "1737044305443"
+  },
+  "linkspgrkpc": {
+    "_id": "linkspgrkpc",
+    "parent": "Ohno",
+    "order": 4,
+    "title": "CF",
+    "url": "https://codeforces.com"
+  },
+  "linkshfpkfh": {
+    "_id": "linkshfpkfh",
+    "parent": "Dekho",
+    "order": 0,
+    "title": "Hotstar",
+    "url": "https://jiohotstar.com"
+  },
+  "linksalpqmq": {
+    "_id": "linksalpqmq",
+    "parent": "Yeah",
+    "order": 4,
+    "title": "WhatsApp Web",
+    "url": "https://web.whatsapp.com/"
+  },
+  "linksefrjdb": {
+    "_id": "linksefrjdb",
+    "parent": "Uni",
+    "order": 1,
+    "title": "KIIT University Mail",
+    "url": "https://mail.google.com/mail/u/2/",
+    "icon": "https://api.bonjourr.fr/favicon/blob/https://mail.google.com/mail/u/2/"
+  },
+  "linksmkomjl": {
+    "_id": "linksmkomjl",
+    "parent": "Yeah",
+    "order": 0,
+    "title": "Reddit - Dive into anything",
+    "url": "https://www.reddit.com/"
+  },
+  "linksiebafr": {
+    "_id": "linksiebafr",
+    "parent": "Ohno",
+    "order": 2,
+    "title": "CodeChef",
+    "url": "https://codechef.com"
+  },
+  "linksighnom": {
+    "_id": "linksighnom",
+    "parent": "AI",
+    "order": 1,
+    "title": "Claude",
+    "url": "https://claude.ai/new"
+  },
+  "linksornkla": {
+    "_id": "linksornkla",
+    "parent": "Dekho",
+    "order": 1,
+    "title": "Liv",
+    "url": "https://sonyliv.com"
+  },
+  "linksoeckim": {
+    "_id": "linksoeckim",
+    "parent": "Uni",
+    "order": 0,
+    "title": "KIIT UNIVERSITY SLcM Portal",
+    "url": "https://kiitportal.kiituniversity.net/irj/portal/",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/KIIT_logo.svg/1200px-KIIT_logo.svg.png"
+  },
+  "linksgodqao": {
+    "_id": "linksgodqao",
+    "parent": "Yeah",
+    "order": 6,
+    "title": "GitHub",
+    "url": "https://github.com/"
+  },
+  "linksahinjk": {
+    "_id": "linksahinjk",
+    "parent": "Yeah",
+    "order": 3,
+    "title": "YouTube",
+    "url": "https://www.youtube.com/"
+  },
+  "linksonddcg": {
+    "_id": "linksonddcg",
+    "parent": "Yeah",
+    "order": 8,
+    "title": "Valorant esports coverage | VLR.gg",
+    "url": "https://www.vlr.gg/",
+    "icon": "https://www.vlr.gg/img/vlr/logo_header.png"
+  },
+  "linkspbriia": {
+    "_id": "linkspbriia",
+    "parent": "Uni",
+    "order": 3,
+    "title": "LinkedIn",
+    "url": "https://linkedin.com"
+  },
+  "linksokgamh": {
+    "_id": "linksokgamh",
+    "parent": "Ohno",
+    "order": 0,
+    "title": "Leetcode",
+    "url": "https://leetcode.com"
+  },
+  "linksqjknob": {
+    "_id": "linksqjknob",
+    "parent": "AI",
+    "order": 3,
+    "title": "Perplexity",
+    "url": "https://www.perplexity.ai/"
+  },
+  "linksloqqeg": {
+    "_id": "linksloqqeg",
+    "parent": "Ohno",
+    "order": 1,
+    "title": "GFG",
+    "url": "https://geeksforgeeks.org"
+  },
+  "linksheqnjn": {
+    "_id": "linksheqnjn",
+    "parent": "Uni",
+    "order": 4,
+    "title": "MATLAB",
+    "url": "https://matlab.mathworks.com/"
+  },
+  "linksldknqm": {
+    "_id": "linksldknqm",
+    "parent": "Uni",
+    "order": 2,
+    "title": "Classroom",
+    "url": "https://classroom.google.com/u/2/",
+    "icon": "https://www.gstatic.com/classroom/logo_square_rounded.svg"
+  },
+  "linkscqdrff": {
+    "_id": "linkscqdrff",
+    "parent": "Yeah",
+    "order": 2,
+    "title": "Gmail",
+    "url": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  "linkslqadel": {
+    "_id": "linkslqadel",
+    "parent": "AI",
+    "order": 0,
+    "title": "‎Gemini - chat to supercharge your ideas",
+    "url": "https://gemini.google.com/"
+  },
+  "linksddcpaq": {
+    "_id": "linksddcpaq",
+    "parent": "Yeah",
+    "order": 5,
+    "title": "Discord - Group Chat That’s All Fun & Games",
+    "url": "https://discord.com/"
+  },
+  "background_solid": "#222"
+}
